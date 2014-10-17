@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gip:home|Door43 (gip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gip|d43-gip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gip/archive/master.zip|d43-gip.zip]]
+
+**Recent Changes**
+{{changes>ns = gip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gip|Ethnologue data]]
+
